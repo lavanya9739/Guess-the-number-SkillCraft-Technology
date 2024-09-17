@@ -20,3 +20,6 @@ Python 3.x
 tkinter (included with most Python installations)
 winsound (for sound effects on Windows)
 On non-Windows systems (like Linux or macOS), sound effects may require the play command-line utility (optional).
+
+![image](https://github.com/user-attachments/assets/d6693ed3-2ba4-42cb-92b4-667302dbe5b7)
+
